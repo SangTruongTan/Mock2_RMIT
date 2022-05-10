@@ -1,0 +1,7 @@
+//Four CSA test bench
+//ECout | Cin | A | B | S
+0_00_00_00 // 0 + 0
+0_05_05_0A //0x05 + 0x05
+3_90_AA_3B //0x90 + 0xAA + 1
+1_BB_00_BC  //0xBB + 0 + 1
+1_00_AB_AC  //0 + 0xAB + 1

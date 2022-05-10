@@ -1,0 +1,141 @@
+# ** Error: Acs sdne.
+# 
+#        Unable to replace existing ini file (C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/Mock2.mpf).  File can not be renamed.
+# Compile of FourCSA_tb.sv was successful.
+# Compile of Mock2_tb.sv was successful.
+# Compile of DFF.sv was successful.
+# Compile of FourCSA.sv was successful.
+# Compile of Mock2.sv was successful.
+# Compile of TwoRCA.sv was successful.
+# 6 compiles, 0 failed with no errors.
+vsim work.Mock2_tb
+# vsim work.Mock2_tb 
+# Start time: 11:22:10 on May 10,2022
+# Loading sv_std.std
+# Loading work.Mock2_tb
+# Loading work.Mock2
+# Loading work.DFF
+# Loading work.FourCSA
+# Loading work.TwoRCA
+# Loading work.full_adder
+# Loading work.half_adder
+# Loading work.SkipAdder
+# ** Warning: (vsim-3015) [PCDPC] - Port size (17) does not match connection size (9) for port 'Out'. The port definition is at: C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/DFF.sv(3).
+#    Time: 0 ps  Iteration: 0  Instance: /Mock2_tb/mock2/Dff_2 File: C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/Mock2.sv Line: 33
+# Compile of FourCSA_tb.sv was successful.
+# Compile of Mock2_tb.sv was successful.
+# Compile of DFF.sv was successful.
+# Compile of FourCSA.sv was successful.
+# Compile of Mock2.sv was successful.
+# Compile of TwoRCA.sv was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Mock2_tb
+# Loading work.Mock2
+# Loading work.DFF
+# Loading work.FourCSA
+# Loading work.TwoRCA
+# Loading work.full_adder
+# Loading work.half_adder
+# Loading work.SkipAdder
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# [time =125]Wrong Value: Instruction:100100001010101000000000
+# [time =175]Wrong Value: Instruction:101110110000000000001010
+# [time =225]Wrong Value: Instruction:000000001010101100111011
+add wave -position insertpoint  \
+sim:/Mock2_tb/A \
+sim:/Mock2_tb/B \
+sim:/Mock2_tb/Cin \
+sim:/Mock2_tb/Clk \
+sim:/Mock2_tb/clk \
+sim:/Mock2_tb/Cout \
+sim:/Mock2_tb/ECout \
+sim:/Mock2_tb/ES \
+sim:/Mock2_tb/S
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# [time =125]Wrong Value: Instruction:100100001010101000000000
+# [time =175]Wrong Value: Instruction:101110110000000000001010
+# [time =225]Wrong Value: Instruction:000000001010101100111011
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# [time =225]Wrong Value: Instruction:100100001010101000001010
+# [time =275]Wrong Value: Instruction:101110110000000000000000
+# [time =325]Wrong Value: Instruction:000000001010101100111011
+# [time =375]Wrong Value: Instruction:000000000000000010111100
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# [time =225]Wrong Value: Instruction:100100001010101000001010
+# [time =275]Wrong Value: Instruction:000000000000000000000000
+# [time =325]Wrong Value: Instruction:101110110000000000111011
+# [time =375]Wrong Value: Instruction:000000001010101100000000
+# [time =425]Wrong Value: Instruction:000000000000000010111100
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# [time =125]Wrong Value: Instruction:100100001010101000000000
+# [time =225]Wrong Value: Instruction:000000001010101100111011
+restart
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of FourCSA_tb.sv was successful.
+# Compile of Mock2_tb.sv was successful.
+# Compile of DFF.sv was successful.
+# Compile of FourCSA.sv was successful.
+# Compile of Mock2.sv was successful.
+# Compile of TwoRCA.sv was successful.
+# 6 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Mock2_tb
+# Loading work.Mock2
+# Loading work.DFF
+# Loading work.FourCSA
+# Loading work.TwoRCA
+# Loading work.full_adder
+# Loading work.half_adder
+# Loading work.SkipAdder
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of FourCSA_tb.sv was successful.
+# Compile of Mock2_tb.sv was successful.
+# Compile of DFF.sv was successful.
+# Compile of FourCSA.sv was successful.
+# Compile of Mock2.sv was successful.
+# Compile of TwoRCA.sv was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of FourCSA_tb.sv was successful.
+# Compile of Mock2_tb.sv was successful.
+# Compile of DFF.sv was successful.
+# Compile of FourCSA.sv was successful.
+# Compile of Mock2.sv was successful.
+# Compile of TwoRCA.sv was successful.
+# 6 compiles, 0 failed with no errors.
+# Compile of FourCSA_tb.sv was successful.
+# Compile of Mock2_tb.sv was successful.
+# Compile of DFF.sv was successful.
+# Compile of FourCSA.sv was successful.
+# Compile of Mock2.sv was successful.
+# Compile of TwoRCA.sv was successful.
+# 6 compiles, 0 failed with no errors.
+# End time: 11:51:56 on May 10,2022, Elapsed time: 0:29:46
+# Errors: 0, Warnings: 4

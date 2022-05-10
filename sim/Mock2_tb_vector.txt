@@ -1,0 +1,11 @@
+//Mock2 test bench
+//In this design, we take two clock cycle to get the result
+//It means the result have 2 clock cycle delay to display
+//ECout | Cin | A | B | S
+0_00_00_00 // 0 + 0
+0_05_05_00 //0x05 + 0x05
+1_90_AA_00 //0x90 + 0xAA + 1
+1_BB_00_0A  //0xBB + 0 + 1
+3_00_AB_3B  //0 + 0xAB + 1
+0_00_00_BC // 0 + 0
+0_00_00_AC // 0 + 0

@@ -1,0 +1,269 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim
+vDFF
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1652157537
+!i10b 1
+!s100 2izKzNMeDEOE]Gk^gN]:i2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IB0ZKUG>X::na2=<ZzVhI<1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1652157513
+Z4 8C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/DFF.sv
+Z5 FC:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/DFF.sv
+!i122 14
+Z6 L0 1 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1652157537.000000
+Z8 !s107 C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/DFF.sv|
+Z9 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/DFF.sv|
+!i113 1
+Z10 o-work work -sv
+Z11 tCvgOpt 0
+n@d@f@f
+vDFFPort
+R1
+Z12 !s110 1652158119
+!i10b 1
+!s100 K;3AmNamzoeUAzzEGBS3G2
+R2
+IU>8a[gm>PSjA:iPN0[NZ61
+R3
+S1
+R0
+w1652158075
+R4
+R5
+!i122 32
+R6
+R7
+r1
+!s85 0
+31
+Z13 !s108 1652158119.000000
+R8
+R9
+!i113 1
+R10
+R11
+n@d@f@f@port
+vFourCSA
+R1
+R12
+!i10b 1
+!s100 ?:B3j8LAz4VjR?`BjXU`c1
+R2
+I6l`TkYJTE<9NM;NPLn_Ng2
+R3
+S1
+R0
+Z14 w1652152992
+Z15 8C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/FourCSA.sv
+Z16 FC:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/FourCSA.sv
+!i122 33
+L0 1 73
+R7
+r1
+!s85 0
+31
+R13
+Z17 !s107 C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/FourCSA.sv|
+Z18 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/FourCSA.sv|
+!i113 1
+R10
+R11
+n@four@c@s@a
+vFourCSA_tb
+R1
+!s110 1652158118
+!i10b 1
+!s100 SXQ;dgoDEMSPmhKLO^0M91
+R2
+IlDc4[GZakQGBO4]:>M=_m0
+R3
+S1
+R0
+w1652154023
+8C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/FourCSA_tb.sv
+FC:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/FourCSA_tb.sv
+!i122 30
+L0 1 43
+R7
+r1
+!s85 0
+31
+Z19 !s108 1652158118.000000
+!s107 C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/FourCSA_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/FourCSA_tb.sv|
+!i113 1
+R10
+R11
+n@four@c@s@a_tb
+vfull_adder
+R1
+R12
+!i10b 1
+!s100 >k2o=b4_1m;^nid]BEi>[3
+R2
+I1@i=9d<IoD;oDHIR@=;zn0
+R3
+S1
+R0
+Z20 w1652150030
+Z21 8C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/TwoRCA.sv
+Z22 FC:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/TwoRCA.sv
+!i122 35
+L0 34 8
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/TwoRCA.sv|
+Z23 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/TwoRCA.sv|
+!i113 1
+R10
+R11
+vhalf_adder
+R1
+R12
+!i10b 1
+!s100 Sl5]MTCF>2mmS=YXVQfLm1
+R2
+ID79_eRia:Wjz;1H?Ii5Qi3
+R3
+S1
+R0
+R20
+R21
+R22
+!i122 35
+L0 46 6
+R7
+r1
+!s85 0
+31
+R13
+Z24 !s107 C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/TwoRCA.sv|
+R23
+!i113 1
+R10
+R11
+vMock2
+R1
+R12
+!i10b 1
+!s100 6ljO24`9?f2Ji8>IELTaO0
+R2
+I:KW75c3P5Ne[=S<bfYlV>0
+R3
+S1
+R0
+w1652158089
+8C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/Mock2.sv
+FC:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/Mock2.sv
+!i122 34
+L0 1 38
+R7
+r1
+!s85 0
+31
+R13
+!s107 C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/Mock2.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/src/Mock2.sv|
+!i113 1
+R10
+R11
+n@mock2
+vMock2_tb
+R1
+R12
+!i10b 1
+!s100 V8n0CA[c5S8DAlK7aN68k0
+R2
+I6IVMm:57QKlEdMMXJ15Vj1
+R3
+S1
+R0
+w1652155809
+8C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/Mock2_tb.sv
+FC:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/Mock2_tb.sv
+!i122 31
+L0 1 46
+R7
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/Mock2_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sangt/OneDrive/Project/Job/RMIT/Test/Mock2/sim/Mock2_tb.sv|
+!i113 1
+R10
+R11
+n@mock2_tb
+vSkipAdder
+R1
+R12
+!i10b 1
+!s100 b6oo>JGdAA4f71_^Hdb^?1
+R2
+IWY3N]5@__X8e6K5X>;BXK2
+R3
+S1
+R0
+R14
+R15
+R16
+!i122 33
+L0 75 32
+R7
+r1
+!s85 0
+31
+R13
+R17
+R18
+!i113 1
+R10
+R11
+n@skip@adder
+vTwoRCA
+R1
+R12
+!i10b 1
+!s100 HSXm17[EXBm6JL]>3mdlU3
+R2
+IdVz5Pn;m14f9GL0A]f>ML3
+R3
+S1
+R0
+R20
+R21
+R22
+!i122 35
+L0 1 29
+R7
+r1
+!s85 0
+31
+R13
+R24
+R23
+!i113 1
+R10
+R11
+n@two@r@c@a
